@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="10;usuario.html">
+    <meta http-equiv="refresh" content="10;usuario.php">
     <title>Splash Screen</title>
     <link rel="stylesheet" href="stylesplash.css">
     <style>
